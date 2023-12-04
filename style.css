@@ -36,3 +36,22 @@ th {
 .blue {
     background-color: rgb(78, 202, 254);
 }
+
+#monitor {
+    display: block;
+    margin-bottom: 20px;
+}
+
+.container, .container-1 {
+    position: relative;
+    display: block;
+}
+
+.testo-immagine, .testo-immagine-1  {
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
