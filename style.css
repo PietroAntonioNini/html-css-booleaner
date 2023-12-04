@@ -10,3 +10,15 @@ header {
     height: auto;
     margin-top: 40px;
 }
+
+h1 {
+    margin-bottom: 0px;
+}
+
+#Autore {
+    color: rgb(63, 124, 245);
+}
+
+.container {
+    
+}
