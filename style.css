@@ -19,6 +19,20 @@ h1 {
     color: rgb(63, 124, 245);
 }
 
-.container {
-    
+.evidenziato {
+    background-color: yellow;
+}
+
+.raw-left, .raw-center {
+    width: 300px;
+}
+
+th {
+    text-align: left;
+    background-color: rgb(53, 128, 249);
+    color: white;
+}
+
+.blue {
+    background-color: rgb(78, 202, 254);
 }
